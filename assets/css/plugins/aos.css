@@ -762,16 +762,16 @@ body[data-aos-easing="ease-out-sine"] [data-aos] {
 body[data-aos-easing="ease-in-out-sine"] [data-aos] {
   transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
-[data-aos][data-aos][data-aos-easing="ease-in-quadmob"],
-body[data-aos-easing="ease-in-quadmob"] [data-aos] {
+[data-aos][data-aos][data-aos-easing="ease-in-mobidirection"],
+body[data-aos-easing="ease-in-mobidirection"] [data-aos] {
   transition-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
 }
-[data-aos][data-aos][data-aos-easing="ease-out-quadmob"],
-body[data-aos-easing="ease-out-quadmob"] [data-aos] {
+[data-aos][data-aos][data-aos-easing="ease-out-mobidirection"],
+body[data-aos-easing="ease-out-mobidirection"] [data-aos] {
   transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
-[data-aos][data-aos][data-aos-easing="ease-in-out-quadmob"],
-body[data-aos-easing="ease-in-out-quadmob"] [data-aos] {
+[data-aos][data-aos][data-aos-easing="ease-in-out-mobidirection"],
+body[data-aos-easing="ease-in-out-mobidirection"] [data-aos] {
   transition-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 [data-aos][data-aos][data-aos-easing="ease-in-cubic"],
